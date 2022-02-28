@@ -1,0 +1,24 @@
+@charset "utf-8";
+body{
+	background-color: mintcream;
+	padding: 0;
+	margin:0;
+}
+
+h1{
+	color:#AFB3EA;
+	text-align:center;
+}
+
+img {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.eye1 {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
